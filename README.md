@@ -1,2 +1,2 @@
-# Project_2_Анализ вакансий
+# Project_2_Анализ вакансий из HeadHunter
  
